@@ -1,2 +1,7 @@
 clase de git
+<<<<<<< HEAD
 mensaje después de la parte 4 - nuevo-branch
+=======
+cambios nuevos
+espero que funciones
+>>>>>>> nuevo-branch
